@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0625PVE/AEZEUzXeqUgriWJRaPJZZHRvqOBHEKvhXWQ=",
+  "Source": "ProducerConsumer",
+  "BasePath": "_content/ProducerConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
